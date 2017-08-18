@@ -1,0 +1,96 @@
+/*!
+ * Start Bootstrap - Full Slider HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+html,
+body {
+    height: 100%;
+	background-image:url('../images/bg.png');
+}
+
+.carousel,
+.item,
+.active {
+    height: 600px;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+footer {
+    margin: 50px 0;
+}
+.bg
+{
+background-image:url('../images/box.png');
+background-size: 100% 100%;
+padding-bottom: 70px;
+}
+.bg img
+{
+width:100%;
+}
+.disc
+{
+position: absolute;
+    top: 40px;
+}
+.disc p{
+margin:0px;
+font-family:silent reaction; font-weight:600;font-size:22px;
+}
+.disc span
+{
+text-transform:uppercase;
+}
+.itemdesc
+{
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.price-new
+{
+    font-size: 20px;
+    font-weight: 600;
+}
+.price-old
+{
+font-size:17px;
+}
+.button
+{
+    background: #94531C;
+    color: #fff;
+    border-radius: 15px;
+    padding:5px 15px;
+    border: 0px;
+    font-weight: 600;
+}
+.vbutton
+{
+    background: #837AC8;
+    color: #fff;
+    border-radius: 8px;
+    padding:5px 10px;
+    border: 0px;
+    font-weight: 600;
+}
+hr
+{
+    border-top: 1px solid #38312B !important;
+}

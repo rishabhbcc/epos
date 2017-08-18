@@ -1,0 +1,119 @@
+[12-Feb-2016 19:29:27 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[12-Feb-2016 19:29:54 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[12-Feb-2016 19:30:17 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[12-Feb-2016 19:31:27 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[12-Feb-2016 19:31:57 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[12-Feb-2016 19:32:21 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[12-Feb-2016 19:32:41 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[12-Feb-2016 19:32:52 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[12-Feb-2016 19:33:21 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[12-Feb-2016 19:33:41 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[12-Feb-2016 19:34:47 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[12-Feb-2016 19:34:58 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[12-Feb-2016 19:34:58 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[12-Feb-2016 19:39:17 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[12-Feb-2016 19:41:28 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[12-Feb-2016 19:42:36 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[12-Feb-2016 19:51:48 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[13-Feb-2016 10:36:11 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[13-Feb-2016 15:35:24 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[13-Feb-2016 15:35:28 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[13-Feb-2016 15:35:38 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[13-Feb-2016 15:36:32 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[13-Feb-2016 15:37:49 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[13-Feb-2016 17:21:32 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[13-Feb-2016 17:31:18 Asia/Kolkata] PHP Fatal error:  Call to undefined method Finance::manage_supplier_invoice() in /home/donedigi/public_html/client/sunglasses/admin/form_handler.php on line 1221
+[13-Feb-2016 17:31:38 Asia/Kolkata] PHP Fatal error:  Call to undefined method Finance::manage_supplier_invoice() in /home/donedigi/public_html/client/sunglasses/admin/form_handler.php on line 1221
+[13-Feb-2016 17:35:38 Asia/Kolkata] PHP Fatal error:  Call to undefined method Finance::manage_supplier_payment() in /home/donedigi/public_html/client/sunglasses/admin/form_handler.php on line 1372
+[13-Feb-2016 17:36:17 Asia/Kolkata] PHP Fatal error:  Call to undefined method Finance::manage_supplier_payment() in /home/donedigi/public_html/client/sunglasses/admin/form_handler.php on line 1372
+[15-Feb-2016 06:55:27 UTC] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING) in /home/donedigi/public_html/client/sunglasses/admin/form_handler.php on line 715
+[15-Feb-2016 13:06:47 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[15-Feb-2016 13:06:47 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[15-Feb-2016 13:46:14 Asia/Kolkata] PHP Fatal error:  Call to undefined function push() in /home/donedigi/public_html/client/sunglasses/admin/form_handler.php on line 712
+[15-Feb-2016 18:10:23 Asia/Kolkata] PHP Fatal error:  Call to undefined method Requisition::get_product_list() in /home/donedigi/public_html/client/sunglasses/admin/includes/content/requisitions.php on line 189
+[15-Feb-2016 18:10:30 Asia/Kolkata] PHP Fatal error:  Call to undefined method Requisition::get_product_list() in /home/donedigi/public_html/client/sunglasses/admin/includes/content/requisitions.php on line 189
+[15-Feb-2016 18:10:36 Asia/Kolkata] PHP Fatal error:  Call to undefined method Requisition::get_product_list() in /home/donedigi/public_html/client/sunglasses/admin/includes/content/requisitions.php on line 189
+[15-Feb-2016 18:10:41 Asia/Kolkata] PHP Fatal error:  Call to undefined method Requisition::get_product_list() in /home/donedigi/public_html/client/sunglasses/admin/includes/content/requisitions.php on line 189
+[15-Feb-2016 18:10:58 Asia/Kolkata] PHP Fatal error:  Call to undefined method Requisition::get_product_list() in /home/donedigi/public_html/client/sunglasses/admin/includes/content/requisitions.php on line 189
+[15-Feb-2016 18:11:12 Asia/Kolkata] PHP Fatal error:  Call to undefined method Requisition::get_product_list() in /home/donedigi/public_html/client/sunglasses/admin/includes/content/requisitions.php on line 189
+[15-Feb-2016 18:11:25 Asia/Kolkata] PHP Fatal error:  Call to undefined method Requisition::get_product_list() in /home/donedigi/public_html/client/sunglasses/admin/includes/content/requisitions.php on line 189
+[15-Feb-2016 18:12:13 Asia/Kolkata] PHP Fatal error:  Call to undefined method Requisition::get_product_list() in /home/donedigi/public_html/client/sunglasses/admin/includes/content/requisitions.php on line 189
+[15-Feb-2016 18:15:59 Asia/Kolkata] PHP Fatal error:  Call to undefined method Requisition::get_product_list() in /home/donedigi/public_html/client/sunglasses/admin/includes/content/requisitions.php on line 189
+[16-Feb-2016 13:01:52 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:01:52 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:01:52 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:01:52 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:01:52 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:01:52 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:01:52 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:01:52 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:01:52 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:01:52 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:03:19 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:03:19 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:03:19 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:03:19 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:03:19 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:03:19 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:03:19 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:03:19 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:03:19 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:03:19 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:06:30 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:06:30 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:06:30 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:06:30 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:06:30 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:06:30 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:06:30 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:06:30 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:06:30 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:06:30 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:06:38 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:06:38 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:06:38 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:06:38 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:06:38 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:06:38 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:06:38 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:06:38 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:06:38 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 13:06:38 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 09:34:52 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/donedigi/public_html/client/sunglasses/admin/form_handler.php on line 728
+[16-Feb-2016 15:05:14 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 15:05:14 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 15:05:14 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 15:12:41 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/donedigi/public_html/client/sunglasses/admin/classes/Database.php on line 35
+[16-Feb-2016 17:11:14 Asia/Kolkata] PHP Fatal error:  Method name must be a string in /home/donedigi/public_html/client/sunglasses/admin/includes/content/purchase_order.php on line 283
+[16-Feb-2016 17:12:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''</td>' (T_CONSTANT_ENCAPSED_STRING) in /home/donedigi/public_html/client/sunglasses/admin/includes/content/purchase_order.php on line 288
+[16-Feb-2016 17:12:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''</td>' (T_CONSTANT_ENCAPSED_STRING) in /home/donedigi/public_html/client/sunglasses/admin/includes/content/purchase_order.php on line 288
+[16-Feb-2016 17:12:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''</td>' (T_CONSTANT_ENCAPSED_STRING) in /home/donedigi/public_html/client/sunglasses/admin/includes/content/purchase_order.php on line 288
+[16-Feb-2016 17:12:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''</td>' (T_CONSTANT_ENCAPSED_STRING) in /home/donedigi/public_html/client/sunglasses/admin/includes/content/purchase_order.php on line 288
+[16-Feb-2016 18:20:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/donedigi/public_html/client/sunglasses/admin/includes/content/purchase_order.php on line 245
+[16-Feb-2016 18:20:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/donedigi/public_html/client/sunglasses/admin/includes/content/purchase_order.php on line 245
+[16-Feb-2016 18:45:16 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[16-Feb-2016 18:47:30 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[16-Feb-2016 18:49:57 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[16-Feb-2016 18:51:31 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[16-Feb-2016 19:07:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>' in /home/donedigi/public_html/client/sunglasses/admin/includes/content/purchase_order.php on line 241
+[16-Feb-2016 19:11:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/donedigi/public_html/client/sunglasses/admin/includes/content/purchase_order.php on line 242
+[16-Feb-2016 19:12:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/donedigi/public_html/client/sunglasses/admin/includes/content/purchase_order.php on line 245
+[16-Feb-2016 19:13:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>' in /home/donedigi/public_html/client/sunglasses/admin/includes/content/purchase_order.php on line 249
+[17-Feb-2016 00:37:23 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[16-Feb-2016 19:08:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/donedigi/public_html/client/sunglasses/admin/form_handler.php on line 480
+[17-Feb-2016 00:39:01 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[17-Feb-2016 00:39:34 Asia/Kolkata] PHP Fatal error:  Class 'mailerLib' not found in /home/donedigi/public_html/client/sunglasses/admin/classes/CustomException.php on line 18
+[17-Feb-2016 01:07:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/donedigi/public_html/client/sunglasses/admin/includes/content/purchase_order.php on line 245
+[17-Feb-2016 01:08:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/donedigi/public_html/client/sunglasses/admin/includes/content/purchase_order.php on line 245
+[17-Feb-2016 11:24:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/donedigi/public_html/client/sunglasses/admin/includes/content/purchase_order.php on line 247
+[17-Feb-2016 11:25:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/donedigi/public_html/client/sunglasses/admin/includes/content/purchase_order.php on line 247
+[17-Feb-2016 11:34:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/donedigi/public_html/client/sunglasses/admin/includes/content/purchase_order.php on line 253
+[17-Feb-2016 11:35:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/donedigi/public_html/client/sunglasses/admin/includes/content/purchase_order.php on line 253
+[17-Feb-2016 11:50:21 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/donedigi/public_html/client/sunglasses/admin/form_handler.php on line 859
+[17-Feb-2016 12:02:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/donedigi/public_html/client/sunglasses/admin/form_handler.php on line 859
+[17-Feb-2016 12:41:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/donedigi/public_html/client/sunglasses/admin/includes/content/requisitions.php on line 238
+[18-Feb-2016 17:17:13 Asia/Kolkata] PHP Fatal error:  Call to a member function get_suppliers_details() on null in /home/donedigi/public_html/client/sunglasses/admin/ajax_form_handler.php on line 167
+[18-Feb-2016 17:18:08 Asia/Kolkata] PHP Fatal error:  Call to a member function get_suppliers_details() on null in /home/donedigi/public_html/client/sunglasses/admin/ajax_form_handler.php on line 167
+[18-Feb-2016 17:19:01 Asia/Kolkata] PHP Fatal error:  Call to undefined method Finance::manage_supplier_invoice() in /home/donedigi/public_html/client/sunglasses/admin/form_handler.php on line 1221
+[18-Feb-2016 17:25:19 Asia/Kolkata] PHP Fatal error:  Call to a member function get_suppliers_details() on null in /home/donedigi/public_html/client/sunglasses/admin/ajax_form_handler.php on line 167
+[18-Feb-2016 17:25:40 Asia/Kolkata] PHP Fatal error:  Call to a member function get_suppliers_details() on null in /home/donedigi/public_html/client/sunglasses/admin/ajax_form_handler.php on line 167
